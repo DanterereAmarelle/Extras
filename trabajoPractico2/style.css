@@ -1,0 +1,18 @@
+p {
+    color: blue;
+}
+
+div {
+    background: #5c847e;
+    width: 300px;
+    height: 300px;
+    margin: 10px;
+    padding: 10px;
+    display: inline-block;
+}
+
+img{
+    width: 100px;
+    height: 100px;
+
+}
